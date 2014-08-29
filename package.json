@@ -19,7 +19,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "kaiseki", "*"
+    "kaiseki": "*"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
