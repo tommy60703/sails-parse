@@ -18,7 +18,9 @@
   "author": "tommylin",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "dependencies": {},
+  "dependencies": {
+    "kaiseki", "*"
+  },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
     "mocha": "*",
