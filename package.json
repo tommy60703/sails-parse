@@ -1,12 +1,12 @@
 {
-  "name": "waterline-parse",
+  "name": "sails-parse-adapter",
   "version": "0.10.0",
   "description": "parse adapter for Sails / Waterline",
-  "main": "adapter.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test/integration/runner -R spec -b"
   },
-  "repository": {"type":"git","url":"git://github.com/balderdashy/waterline-%s.git"},
+  "repository": {"type":"git","url":"https://github.com/tommy60703/sails-parse"},
   "keywords": [
     "parse",
     "adapter",
@@ -15,7 +15,7 @@
     "sails.js",
     "plugin"
   ],
-  "author": "tommylin",
+  "author": "Tommy Lin",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
